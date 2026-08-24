@@ -14,7 +14,7 @@ The objective of this task is to create a professional double-sided business car
 
 * `Ananya_Task3_Front.png` – Front side of the business card
 * `Ananya_Task3_Back.png` – Back side of the business card
-* `NOVABYTE TECHNOLOGIES.pdf` – PDF version of the business card
+* `Ananya_Task3.pdf` – PDF version of the business card
 
 ## Design Specifications
 
