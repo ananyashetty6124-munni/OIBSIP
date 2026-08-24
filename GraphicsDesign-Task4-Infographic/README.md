@@ -1,26 +1,26 @@
-# Task 1 – Poster Design
+# Task 4 – Infographic Design
 
 ## Description
 
-This folder contains poster designs created as part of the **OIBSIP Graphics Design Internship**.
+This folder contains an infographic on **Artificial Intelligence in Everyday Life**, created as part of the **OIBSIP Graphics Design Internship**.
 
-The posters are designed to communicate information clearly and attractively using appropriate typography, colors, imagery, layout, and visual hierarchy.
+The infographic presents information about Artificial Intelligence and its applications in everyday life through a clear and visually engaging layout.
 
 ## Objective
 
-The objective of this task is to create visually appealing and informative poster designs while demonstrating fundamental graphic design principles.
+The objective of this task is to create an informative and visually appealing infographic that communicates information about Artificial Intelligence using effective typography, visual elements, data presentation, and visual hierarchy.
 
-## Files
+## File
 
-* `Ananya_Task1_Poster1.png` – First poster design
-* `Ananya_Task1_Poster2.png` – Second poster design
+* `Ananya_Task4.png` – Final AI infographic design
 
 ## Design Specifications
 
-* **Number of Designs:** 2
+* **Topic:** Artificial Intelligence in Everyday Life
+* **Dimensions:** 800 × 2000 pixels
 * **Format:** PNG
-* **Design Size:** A4 / 1080 × 1080 pixels
-* **Color Palette:** Maximum 3–4 colors
+* **Color Palette:** Maximum 4 colors
+* **Design Type:** Vertical infographic
 
 ## Tools Used
 
@@ -28,24 +28,25 @@ The objective of this task is to create visually appealing and informative poste
 
 ## Key Features
 
-* Clear and attractive visual presentation
-* Appropriate typography
-* Effective use of colors
-* Relevant visual elements
-* Strong visual hierarchy
-* Balanced composition
-* Readable and organized content
+* Clear and informative title
+* Multiple distinct information/data points
+* Visual elements supporting the information
+* Organized content sections
+* Effective typography
+* Clear visual hierarchy
+* Balanced layout and composition
+* Easy-to-understand information presentation
 
 ## Skills Demonstrated
 
-* Poster design
+* Infographic design
+* Information visualization
 * Typography
-* Color selection
-* Layout and composition
+* Data presentation
 * Visual hierarchy
-* Image and graphic arrangement
+* Layout and composition
 * Visual communication
 
 ## Completion
 
-The required poster designs were created according to the OIBSIP Graphics Design Task 1 requirements and exported in PNG format for submission.
+The infographic was created according to the OIBSIP Graphics Design Task 4 requirements and exported as a PNG for submission.
