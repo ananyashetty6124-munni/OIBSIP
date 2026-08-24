@@ -14,7 +14,7 @@ The objective of this task is to design a minimalist and versatile logo that can
 
 * `Ananya_Task2_Logo_FullColor.png` – Full-color logo
 * `Ananya_Task2_Logo_Monochrome.png` – Monochrome logo
-* `/Ananya_Task2_Logo_Reverse.png` – Reversed logo
+* `Ananya_Task2_Logo_Reversed.png` – Reversed logo
 
 ## Design Concept
 
