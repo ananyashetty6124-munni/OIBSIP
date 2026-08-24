@@ -62,5 +62,5 @@ OIBSIP/
 
 All completed Graphics Design tasks and their respective README files are included in this repository for internship evaluation and submission.
 
-**Internship:** Oasis Infobyte Internship Program (OIBSIP)
-**Track:** Graphics Design
+Internship: Oasis Infobyte Internship Program (OIBSIP)
+Track: Graphics Design
